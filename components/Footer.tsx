@@ -25,7 +25,7 @@ export default function Footer() {
 
                     <div className="flex items-center space-x-4">
                         <a
-                            href="https://facebook.com/yourprofile"
+                            href="https://www.facebook.com/kim2ra/"
                             target="_blank"
                             rel="noopener noreferrer"
                             aria-label="Facebook — ouvre dans un nouvel onglet"
@@ -35,7 +35,7 @@ export default function Footer() {
                         </a>
 
                         <a
-                            href="https://linkedin.com/in/yourprofile"
+                            href="https://www.linkedin.com/in/antonio-michael-malalaniaina-675693362/"
                             target="_blank"
                             rel="noopener noreferrer"
                             aria-label="LinkedIn — ouvre dans un nouvel onglet"
@@ -45,7 +45,7 @@ export default function Footer() {
                         </a>
 
                         <a
-                            href="https://github.com/yourusername"
+                            href="https://github.com/A-kim4/"
                             target="_blank"
                             rel="noopener noreferrer"
                             aria-label="GitHub — ouvre dans un nouvel onglet"
